@@ -1,2 +1,5 @@
 first line
 second line
+
+added more stuff after 1st commit
+my dog is cute
